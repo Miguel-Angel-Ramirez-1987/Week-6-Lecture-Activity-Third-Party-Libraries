@@ -1,0 +1,9 @@
+# Author
+
+    Miguel Angel Ramirez
+
+# Purpose
+
+    Week 6 Lecture Activity: Third-Party Libraries
+
+# Comment
